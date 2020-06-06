@@ -30,13 +30,13 @@
     
     **Output**:
     
-        3.1)   3.1.1)   accuracy
-               3.1.2) f1 score
-               3.1.3) confusion matrix 
+        3.1)   3.1.1) Accuracy
+               3.1.2) F1 score
+               3.1.3) Confusion matrix 
                3.1.4) ROC
         3.2)   3.2.1) ROC Curves
                3.2.2) Calibration Curves
-               3.3.3) comparison of ROC curves
+               3.3.3) Comparison of ROC curves
                3.3.4) Comparison of calibration curve
                
 4.  **LSTM.ipynb**
