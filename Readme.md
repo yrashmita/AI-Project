@@ -9,5 +9,7 @@ This solution includes identifying key attributes of drowsiness to detect whethe
 **4.LSTM** - LSTM networks are a special kind of Recurrent Neural Networks (RNN), capable of learning long-term dependencies in the data.
 
 **5.Main_Code** -Implementing the model to predict new frames as alert or drowsy.
+
+**6.Graphs Folder** : Contains all the output graphs produced from the codes.
  
 
