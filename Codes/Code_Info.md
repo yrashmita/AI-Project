@@ -2,17 +2,17 @@
 
     **Input**: Alert and Drowsy Videos 
     
-    **Output**: Label + features 
+    **Output**: Label + features
     
-    6_Participants_ In_First_Zip_File.csv 
+   All four files were used to create Merged_data.csv
+    
+        1.1) 6_Participants_ In_First_Zip_File.csv 
         
-    5_Participants_In_Fourth_Zip_File.csv
+        1.2) 5_Participants_In_Fourth_Zip_File.csv
         
-    6_Participants_In _Third _Zip_File.csv
+        1.3) 6_Participants_In _Third _Zip_File.csv
         
-    5_Participants_In _Second_Zip_File.csv
-        
-    All four files were used to create Merged_data.csv 
+        1.4) 5_Participants_In _Second_Zip_File.csv 
 
 2.  **Normalization.ipynb** 
 
