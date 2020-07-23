@@ -1,3 +1,4 @@
+# Driver Drowsiness Detection AI Project
 This solution includes identifying key attributes of drowsiness to detect whether alert or drowsy i.e. Driver drowsiness detection via eye and mouth monitoring being it closed or opened using Python, OpenCV.
 
 **1.Pre_Processing_&_Feature_Extraction** - Pre processing of dataset videos into frames to label them and to extract suitable features for the classification model based on the facial landmarks that was extracted from the frames of the videos.
